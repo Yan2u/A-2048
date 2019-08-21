@@ -1,0 +1,16 @@
+E:\Mp\VB.NET\A2048\A2048\A2048\bin\Debug\A2048.exe.config
+E:\Mp\VB.NET\A2048\A2048\A2048\bin\Debug\A2048.exe
+E:\Mp\VB.NET\A2048\A2048\A2048\bin\Debug\A2048.pdb
+E:\Mp\VB.NET\A2048\A2048\A2048\bin\Debug\A2048.xml
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.vbprojAssemblyReference.cache
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.Form1.resources
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.Resources.resources
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.vbproj.GenerateResource.cache
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.vbproj.CoreCompileInputs.cache
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.exe
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.xml
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.pdb
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.about.resources
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.help.resources
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.settings.resources
+E:\Mp\VB.NET\A2048\A2048\A2048\obj\Debug\A2048.over.resources

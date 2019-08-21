@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+A2048
+</name>
+</assembly>
+<members>
+<member name="T:A2048.My.Resources.Resources">
+<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.ResourceManager">
+<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.Culture">
+<summary>
+  重写当前线程的 CurrentUICulture 属性
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.advanhelp">
+<summary>
+  查找类似 &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;UTF-8&apos;&gt;&lt;meta name=&apos;viewport&apos; content=&apos;width=device-width initial-scale=1&apos;&gt;
+&lt;title&gt;A2048进阶使用手册&lt;/title&gt;&lt;style type=&apos;text/css&apos;&gt;html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:&quot;Lucida Console&quot;,Consolas,&quot;Courier&quot;,monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: &quot;Helvetica Neue&quot;, Helvetica, [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.basichelp">
+<summary>
+  查找类似 &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;UTF-8&apos;&gt;&lt;meta name=&apos;viewport&apos; content=&apos;width=device-width initial-scale=1&apos;&gt;
+&lt;title&gt;A2048初级使用手册&lt;/title&gt;&lt;style type=&apos;text/css&apos;&gt;html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:&quot;Lucida Console&quot;,Consolas,&quot;Courier&quot;,monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: &quot;Helvetica Neue&quot;, Helvetica, [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.html">
+<summary>
+  查找类似 &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;UTF-8&apos;&gt;&lt;meta name=&apos;viewport&apos; content=&apos;width=device-width initial-scale=1&apos;&gt;
+&lt;title&gt;&lt;/title&gt;&lt;style type=&apos;text/css&apos;&gt;html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:&quot;Lucida Console&quot;,Consolas,&quot;Courier&quot;,monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, san [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.logo">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.reqfiles">
+<summary>
+  查找类似 _2.png,_4.png,_8.png,_16.png,_32.png,_64.png,_128.png,_256.png,_512.png,_1024.png,_2048.png,_4096.png,_8192.png,_16384.png,box.png 的本地化字符串。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.reqx">
+<summary>
+  查找类似 8,208,408,608,8,208,408,608,8,208,408,608,8,208,408,608 的本地化字符串。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.reqy">
+<summary>
+  查找类似 8,8,8,8,208,208,208,208,408,408,408,408,608,608,608,608 的本地化字符串。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.slogo">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.theme_blue">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.theme_green">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.theme_grey">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.theme_normal">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:A2048.My.Resources.Resources.theme_orange">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+</members>
+</doc>
