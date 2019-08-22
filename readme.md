@@ -6,7 +6,8 @@
 
 附1：下载链接（解压后，`A2048.exe` 就是游戏文件，注意 `images` 文件夹不能丢！）
 
-https://github.com/Yan2u/A-2048/
+Github仓库 : https://github.com/Yan2u/A-2048/
+Release : https://github.com/Yan2u/A-2048/releases
 
 附2：比较简陋的游戏界面截图
 
